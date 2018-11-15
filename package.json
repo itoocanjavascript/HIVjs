@@ -1,0 +1,23 @@
+{
+  "name": "hivjs",
+  "version": "0.1.0",
+  "description": "Someone told me that there was a package for every word in the dictionary. Just doing my bit to help...",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --reporter spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/itoocanjavascript/HIVjs.git"
+  },
+  "author": "I too can javascript <itoocanjavascript@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/itoocanjavascript/HIVjs/issues"
+  },
+  "homepage": "https://github.com/itoocanjavascript/HIVjs#readme",
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^5.2.0"
+  }
+}
